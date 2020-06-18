@@ -1,2 +1,6 @@
 print("Hello world")
 print("Welcome")
+
+a,b = 8,7
+c = a+b
+print(c)
